@@ -1,0 +1,49 @@
+﻿  Vsystem_top.cpp
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47738): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47743): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47748): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47779): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47784): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47789): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47820): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47825): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47830): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47861): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47866): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47871): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47902): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47907): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47912): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47943): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47948): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47953): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47984): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47989): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(47994): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125262): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125267): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125272): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125303): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125308): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125313): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125344): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125349): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125354): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125385): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125390): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125395): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125426): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125431): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125436): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125467): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125472): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125477): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125508): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125513): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\ubuntu_64_vmware\psx_fpga-master\psx\system\out\vsystem_top.cpp(125518): warning C4293: '<<': shift count negative or too big, undefined behavior
+  Vsystem_top__Syms.cpp
+  Vsystem_top___024unit.cpp
+  Vsystem_top_interp.cpp
+  sim_main.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\electronash\Documents\Visual Studio 2017\Projects\VerilatorSim_PS1\Debug\ConsoleApplication1.exe

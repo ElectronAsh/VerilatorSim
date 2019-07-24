@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{c2ae8e24-5567-43e0-93c7-d2c34f47dbd3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\Ubuntu_64_VMware\verilator-4.010\include\verilated.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ubuntu_64_VMware\imgui-master\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ubuntu_64_VMware\imgui-master\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ubuntu_64_VMware\imgui-master\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ubuntu_64_VMware\imgui-master\imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ubuntu_64_VMware\imgui-master\examples\imgui_impl_dx11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ubuntu_64_VMware\imgui-master\examples\imgui_impl_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ubuntu_64_VMware\psx_fpga-master\psx\system\sim_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ubuntu_64_VMware\psx_fpga-master\psx\system\out\Vsystem_top.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ubuntu_64_VMware\verilator-4.010\include\verilated_save.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ubuntu_64_VMware\psx_fpga-master\psx\system\out\Vsystem_top__Syms.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ubuntu_64_VMware\psx_fpga-master\psx\system\out\Vsystem_top___024unit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ubuntu_64_VMware\psx_fpga-master\psx\system\out\Vsystem_top_interp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Ubuntu_64_VMware\imgui-master\imconfig.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\imgui-master\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\imgui-master\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\imgui-master\examples\imgui_impl_dx11.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\imgui-master\examples\imgui_impl_win32.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\imgui-master\ui_chip.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\imgui-master\ui_m6502.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\imgui-master\_m6502_decoder.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\imgui-master\ui_util.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\imgui-master\imgui_memory_editor.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\verilator-4.010\include\sched.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\psx_fpga-master\psx\system\out\Vsystem_top__Syms.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\psx_fpga-master\psx\system\out\Vsystem_top.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\psx_fpga-master\psx\system\out\Vsystem_top___024unit.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\verilator-4.010\include\verilatedos.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ubuntu_64_VMware\psx_fpga-master\psx\system\out\Vsystem_top_interp.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
